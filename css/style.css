@@ -10431,8 +10431,8 @@ i.bg-color-secondary {
   top: 0;
   bottom: 0;
   height: auto;
-  left: -50px;
-  top: 30px;
+  left: -60px;
+  top: 20px;
 }
 
 .arrow-divider.light > [class*=col-]:nth-child(n+2):after {
