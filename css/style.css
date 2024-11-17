@@ -17351,3 +17351,10 @@ img {
   }
 }
 
+.about-galery-item{
+  height: 300px;
+  background-size: cover;
+  background-position: center center;
+  border: 1px solid gray;
+
+}
