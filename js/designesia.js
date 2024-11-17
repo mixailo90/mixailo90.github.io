@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2024 - Mindthera by Designesia
+  * © Copyright 2024 - Marina Bukarica - Psihoterapija by Designesia
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
